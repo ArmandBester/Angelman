@@ -50,27 +50,11 @@ A **ligase** is an enzyme that catalyzes the formation of covalent bonds between
 Silencing genes
 
 
-
-
-
-<iframe
-    width="560"
-    height="315"
-    src="https://www.youtube.com/embed/cK-OGB1_ELE"
-    frameborder="0"
-    allowfullscreen
-
-></iframe>
-
 [![Watch the video](https://img.youtube.com/vi/cK-OGB1_ELE/maxresdefault.jpg)](https://youtu.be/cK-OGB1_ELE)
 
 
 
 Silencing the silencer or Antisense Aligonucleotides for antisense oligunucleotides
-
-
-
-
 
 <iframe
     width="560"
@@ -81,7 +65,7 @@ Silencing the silencer or Antisense Aligonucleotides for antisense oligunucleoti
 
 ></iframe>
 
-
+[![Watch the video](https://img.youtube.com/vi/zMn-AHj9UUw/maxresdefault.jpg)](https://youtu.be/zMn-AHj9UUw)
 
 
 ## Ropes and pullies
