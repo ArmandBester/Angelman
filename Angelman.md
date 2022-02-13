@@ -57,7 +57,7 @@ Silencing genes
 Silencing the silencer or Antisense Aligonucleotides for antisense oligunucleotides
 
 
-[[Watch the video](https://img.youtube.com/vi/zMn-AHj9UUw/0.jpg)](https://youtu.be/zMn-AHj9UUw){:target="_blank" rel="noopener"}
+[![Watch the video](https://img.youtube.com/vi/zMn-AHj9UUw/0.jpg)](https://youtu.be/zMn-AHj9UUw){:target="_blank" rel="noopener"}
 
 
 ## Ropes and pullies
