@@ -50,14 +50,14 @@ A **ligase** is an enzyme that catalyzes the formation of covalent bonds between
 Silencing genes
 
 
-[![Watch the video](https://img.youtube.com/vi/cK-OGB1_ELE/1.jpg)](https://youtu.be/cK-OGB1_ELE)
+[![Watch the video](https://img.youtube.com/vi/cK-OGB1_ELE/0.jpg)](https://youtu.be/cK-OGB1_ELE)
 
 
 
 Silencing the silencer or Antisense Aligonucleotides for antisense oligunucleotides
 
 
-[![Watch the video](https://img.youtube.com/vi/zMn-AHj9UUw/maxresdefault.jpg)](https://youtu.be/zMn-AHj9UUw)
+[![Watch the video](https://img.youtube.com/vi/zMn-AHj9UUw/0.jpg)](https://youtu.be/zMn-AHj9UUw)
 
 
 ## Ropes and pullies
@@ -71,13 +71,13 @@ More Arc less AMPA.  An uncontrolled build-up of Arc disrupts homeostasis.  **Ho
 '''*The AMPA receptor (AMPA-R) is a subtype of the ionotropic glutamate receptor coupled to ion channels that modulate cell excitability by gating the flow of calcium and sodium ions into the cell (Doble, 1995).*'''
 
 
-[![Watch the video](https://img.youtube.com/vi/8-m_J2CnYho/maxresdefault.jpg)](https://youtu.be/8-m_J2CnYho)
+[![Watch the video](https://img.youtube.com/vi/8-m_J2CnYho/0.jpg)](https://youtu.be/8-m_J2CnYho)
 
 
 ## If it works
 
 
-[![Watch the video](https://img.youtube.com/vi/3a3v6E4IQx8/maxresdefault.jpg)](https://youtu.be/3a3v6E4IQx8)
+[![Watch the video](https://img.youtube.com/vi/3a3v6E4IQx8/0.jpg)](https://youtu.be/3a3v6E4IQx8)
 
 
 [G van Worden](https://neuro.nl/person/Geeske-van%20Woerden)
@@ -92,7 +92,7 @@ Althought the KIK-AS trial uses gene therapy, it is not the same as gene-editing
 [Here](https://pubmed.ncbi.nlm.nih.gov/33411694/) is a recent puplication on gene-editing in mice AS models. Using CRISP/Cas9 technology.
 
 
-[![Watch the video](https://img.youtube.com/vi/2pp17E4E-O8/maxresdefault.jpg)](https://youtu.be/2pp17E4E-O8)
+[![Watch the video](https://img.youtube.com/vi/2pp17E4E-O8/0.jpg)](https://youtu.be/2pp17E4E-O8)
 
 
 
