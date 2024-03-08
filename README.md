@@ -2,10 +2,6 @@
 
 Armand Bester, 12 Feb 2022
 
-[Github](https://github.com/ArmandBester)
-
-[blog](http://vdeb.hpc.ufs.ac.za/)
-
 Not an expert
 
 ---
